@@ -1,0 +1,14 @@
+# environment
+.env
+.env.local
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# data / local DB
+data/*.db
+data/*.sqlite
+new_leads.json
+new_leads.csv
